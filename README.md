@@ -1,6 +1,6 @@
 # DIY Battery Spot Welder
 
-![Project Banner](Images/DIY Spot Welder.png)
+![Project Banner](images/DIY Spot Welder.png)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
