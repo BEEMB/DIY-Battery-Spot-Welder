@@ -13,6 +13,7 @@ A professional-grade DIY battery spot welder for assembling custom battery packs
 - **Safe Operation**: Two-hand trigger system & isolated probes
 - **Easy Assembly**: Through-hole components for DIY-friendly construction
 - **Professional PCB**: Manufacturable via JLCPCB or similar services
+- **Project design online**: check [this link](https://diy-guy-chris.365.altium.com/designs/1E80CFA7-D049-494C-BAFB-D3B2DF9A420E)
 
 ## 📸 Project Images
 
