@@ -38,7 +38,7 @@ A professional-grade DIY battery spot welder for assembling custom battery packs
 ## 🛠️ Assembly Instructions
 
 ### 1. PCB Preparation
-- Order PCB from JLCPCB using Gerber files in `/manufacturing/`
+- Order PCB from [JLCPCB](https://jlcpcb.com/?from=TIP) using Gerber files in `/Fab Files/`
 - Select 2oz copper thickness for better current handling
 - Black solder mask recommended (all colors same price)
 
@@ -70,4 +70,15 @@ A professional-grade DIY battery spot welder for assembling custom battery packs
 | Copper Weight | 2oz | Recommended for high current |
 | Probe Tip Diameter | 4mm | Copper recommended |
 
-## 🔌 Wiring Diagram
+## 👤 Author
+**Chris**
+- YouTube: [@DIYGUYCHRIS](https://www.youtube.com/channel/UC_GCvo_dC3joZjL0TlD8xZA)
+- GitHub: [@DIYGUYCHRIS](https://github.com/BEEMB)
+
+## 🙏 Acknowledgments
+- **Analog Devices** for the excellent LT3652 IC and documentation
+- [**JLCPCB**](https://jlcpcb.com/?from=TIP) for reliable PCB fabrication services
+- [**Altium**](https://www.altium.com/yt/diyguychris) for providing professional PCB design tools
+- **Open Source Community** for continuous inspiration and support
+
+### ⭐ If you find this project helpful, please give it a star on GitHub!
