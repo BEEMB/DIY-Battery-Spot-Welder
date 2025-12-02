@@ -18,7 +18,7 @@ A professional-grade DIY battery spot welder for assembling custom battery packs
 
 | Schematic | PCB Design | Final Build |
 |-----------|------------|-------------|
-| ![Schematic](images/schematic.png) | ![PCB](images/pcb-design.png) | ![Build](images/final-build.jpg) |
+| ![Schematic](images/Circuit Schematic.png) | ![PCB](images/PCB 3D Render.png) | ![Build](images/Final Assembly view.JPG) |
 
 ## 📋 Bill of Materials (BOM)
 
