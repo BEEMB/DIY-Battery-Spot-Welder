@@ -18,7 +18,7 @@ A professional-grade DIY battery spot welder for assembling custom battery packs
 
 | Schematic | PCB Design | Final Build |
 |-----------|------------|-------------|
-| ![Schematic](https://github.com/BEEMB/DIY-Battery-Spot-Welder/blob/main/Images/Circuit%20Schematic.png) | ![PCB](images/PCB 3D Render.png) | ![Build](images/Final Assembly view.JPG) |
+| [Schematic](https://github.com/BEEMB/DIY-Battery-Spot-Welder/blob/main/Images/Circuit%20Schematic.png) | ![PCB](images/PCB 3D Render.png) | ![Build](images/Final Assembly view.JPG) |
 
 ## 📋 Bill of Materials (BOM)
 
